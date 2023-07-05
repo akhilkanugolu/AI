@@ -1,2 +1,1 @@
-
-iick a6aadfe deleting ICP\11
+this is sample .py
